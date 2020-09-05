@@ -1,0 +1,23 @@
+setup typescript
+
+yarn add typescript -D
+yarn add @types/node :tipos do ts para o node
+ criar um arquivo de config do typescript 
+
+todos modulos do typescript usar como 
+dependencia de desemvolvimento nao usar em producao 
+
+module-alias :serve para não ter que escrever todo caminho ate o modulo
+
+dist e pra onde o codigo convertido para js vai 
+
+configurar o eslint como dev 
+adicionar dois comandos um para 
+mostrar um erro 
+e outro para corrigir o erro 
+da forma correta
+
+
+
+
+yarn add module-alias
